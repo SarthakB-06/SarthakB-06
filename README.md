@@ -35,7 +35,7 @@ I'm an **IT student** from **Punjab**, passionate about **full-stack development
 - **[Digital Time Capsule](#)** - A MERN-based app with sentiment-based animation
 
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-bansal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://shorturl.at/Xh3oc)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarthakbansal725@gmail.com)
 
 ---
