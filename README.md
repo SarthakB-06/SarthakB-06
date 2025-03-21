@@ -34,12 +34,9 @@ I'm an **IT student** from **Punjab**, passionate about **full-stack development
 - **[Real-Time Chat App](#)** - A MERN-based real-time chat app with websockets
 - **[Digital Time Capsule](#)** - A MERN-based app with sentiment-based animation
 
-## 📊 GitHub Stats
-![Sarthak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarthak-bansal&show_icons=true&theme=radical)
-
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-bansal)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarthakbansal@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarthakbansal725@gmail.com)
 
 ---
 _Always eager to collaborate and build amazing projects! 🚀_
