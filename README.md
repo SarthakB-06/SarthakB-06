@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Sarthak Bansal
 
 ## 🚀 About Me
-I'm an **IT student** from **Punjab**, passionate about **full-stack development, AI, and IoT**. I love exploring new technologies, working on innovative projects, and constantly learning new things.
+I'm an **IT student** from **Punjab**, passionate about **full-stack development, AI**. I love exploring new technologies, working on innovative projects, and constantly learning new things.
 
 💡 I am currently learning **AI/ML** and **Three.js** for **3D website development**.
 
