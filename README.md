@@ -32,7 +32,7 @@ I'm an **IT student** from **Punjab**, passionate about **full-stack development
 
 ## 🔥 My Projects
 - **[Real-Time Chat App](#)** - A MERN-based real-time chat app with websockets
-- **[Digital Time Capsule](#)** - A MERN-based app with sentiment-based animation
+- **
 - And many more small projects
 
 ## 📫 Let's Connect!
